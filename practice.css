@@ -1,0 +1,31 @@
+body{
+  
+  background-color: rgb(240, 229, 229);
+}
+.fa-brands{
+  color:rgb(85, 85, 208);
+}
+.box-part{
+  background-color:whitesmoke;
+  padding: 40px 4px;
+  margin: 40px 0px;
+}
+.icon-color{
+  color: rgb(234, 234, 29);
+  
+}
+.picon{
+    color: red;
+}
+.twit{
+  color: black;
+}
+.cgit{
+  color: black;
+}
+span{
+  font-size: 12px;
+}
+a{
+  border-bottom: 2px solid blueviolet;
+}
